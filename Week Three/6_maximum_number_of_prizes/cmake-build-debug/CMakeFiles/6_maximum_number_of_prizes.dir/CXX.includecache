@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/CSED/coursera algorthimic toolbox/solutions/Week Three/6_maximum_number_of_prizes/main.cpp
+iostream
+-
+vector
+-
+
