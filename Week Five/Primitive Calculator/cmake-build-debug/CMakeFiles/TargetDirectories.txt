@@ -1,0 +1,3 @@
+F:/CSED/coursera algorthimic toolbox/solutions/Week Five/Primitive Calculator/cmake-build-debug/CMakeFiles/Primitive_Calculator.dir
+F:/CSED/coursera algorthimic toolbox/solutions/Week Five/Primitive Calculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CSED/coursera algorthimic toolbox/solutions/Week Five/Primitive Calculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

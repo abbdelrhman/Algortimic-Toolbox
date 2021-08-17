@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/CSED/coursera algorthimic toolbox/solutions/Week Five/Primitive Calculator/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

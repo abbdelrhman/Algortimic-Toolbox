@@ -1,0 +1,3 @@
+"C:\Program Files\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Primitive_Calculator.dir/objects.a
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe cr CMakeFiles\Primitive_Calculator.dir/objects.a @CMakeFiles\Primitive_Calculator.dir\objects1.rsp
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Primitive_Calculator.dir/objects.a -Wl,--no-whole-archive  -o Primitive_Calculator.exe -Wl,--out-implib,libPrimitive_Calculator.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Primitive_Calculator.dir\linklibs.rsp
